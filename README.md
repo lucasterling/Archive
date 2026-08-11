@@ -8,7 +8,7 @@ The application currently focuses on RAR and ZIP archives, with support for pass
 
 ## Preview
 
-A preview of Archive will be added here.
+![Archive for macOS](Screenshots/archive-main.png)
 
 ## Features
 
