@@ -74,4 +74,12 @@ Those components remain subject to their respective copyright notices and licens
 
 Copyright © 2026 Luca Sterling. All rights reserved.
 
-No license is granted to copy, modify, redistribute, sublicense, or use Archive's proprietary source code except where expressly permitted by applicable law or by written permission from the copyright holder.
+Archive is proprietary software. The source code and Xcode project are not
+distributed through this repository.
+
+Unless otherwise stated, the contents of this repository may not be copied,
+modified, redistributed, or used for commercial purposes without written
+permission from the copyright holder.
+
+Third-party software used by Archive remains subject to its respective
+licenses and copyright terms.
