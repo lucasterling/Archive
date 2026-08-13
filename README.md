@@ -24,6 +24,10 @@ Archive currently supports **RAR and ZIP archives**, including password-protecte
 
 ![Archive ZIP creation](Screenshots/archive-create.png)
 
+### Extraction
+
+![Archive extraction progress](Screenshots/archive-extraction.png)
+
 ## Features
 
 ### Archive Browsing
