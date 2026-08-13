@@ -16,6 +16,10 @@ Archive currently supports **RAR and ZIP archives**, including password-protecte
 
 ![Archive integrity and security](Screenshots/archive-integrity.png)
 
+### Password-Protected Archives
+
+![Archive password-protected archive support](Screenshots/archive-password.png)
+
 ## Features
 
 ### Archive Browsing
