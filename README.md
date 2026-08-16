@@ -86,6 +86,8 @@ Archive includes multiple safeguards designed to make archive handling and extra
 - macOS 14.6 or later
 - Apple Silicon or Intel Mac
 
+It also works on macOS 27 Golden Gate Beta.
+
 ## Downloads
 
 The latest version of Archive is available from **GitHub Releases**.
